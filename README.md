@@ -1,1 +1,1 @@
-# art-allery-project
+# art-gallery-project
